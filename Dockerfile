@@ -1,4 +1,4 @@
-FROM ubuntu:impish
+FROM ubuntu:24.10
 
 LABEL maintainer="team@appwrite.io"
 
